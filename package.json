@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "atom-word-count:toggle"
   },
-  "repository": "https://github.com/atom/atom-word-count",
+  "repository": "https://github.com/GaoleMeng/atom-word-count",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

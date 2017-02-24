@@ -1,12 +1,17 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle atom-word-count",
-        "command": "atom-word-count:toggle"
-      }
-    ]
-  },
+  'context-menu':
+  'atom-workspace': [
+    {
+      label: 'Text'
+      submenu: [
+        {label: 'Inspect Element', command: 'core:inspect'}
+        {type: 'separator'}
+        {label: 'Selector All', command: 'core:select-all'}
+        {type: 'separator'}
+        {label: 'Deleted Selected Text', command: 'core:delete'}
+      ]
+    }
+  ]，
   "menu": [
     {
       "label": "Packages",
