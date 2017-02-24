@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "atom-word-count:toggle"
+    "ctrl-alt-o": "atom-word-count:fetch"
   }
 }
