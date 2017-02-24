@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Text",
+        "label": "code-generator",
         "command": "atom-word-count:toggle"
       }
     ]
@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "atom-word-count",
+          "label": "code-generator",
           "submenu": [
             {
               "label": "Toggle",
